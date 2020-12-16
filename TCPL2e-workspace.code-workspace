@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../source/c_standard_lib"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"STRLEN.C": "cpp",
+			"ATOF.C": "cpp",
+			"GETS.C": "cpp",
+			"GETC.C": "cpp",
+			"UNGETC.C": "cpp"
+		}
+	}
+}
