@@ -13,7 +13,9 @@
 			"ATOF.C": "cpp",
 			"GETS.C": "cpp",
 			"GETC.C": "cpp",
-			"UNGETC.C": "cpp"
+			"UNGETC.C": "cpp",
+			"algorithm": "c",
+			"locale": "c"
 		}
 	}
 }
