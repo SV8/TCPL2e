@@ -15,7 +15,8 @@
 			"GETC.C": "cpp",
 			"UNGETC.C": "cpp",
 			"algorithm": "c",
-			"locale": "c"
+			"locale": "c",
+			"STRCMP.C": "cpp"
 		}
 	}
 }
